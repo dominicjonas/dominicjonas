@@ -1,3 +1,3 @@
 ### Hi there 👋
+![Dominic's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicjonas&theme=omni&show_icons=true)
 
-[![Dominic's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicjonas)](https://github.com/dominicjonas/github-readme-stats)
